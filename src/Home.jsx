@@ -17,7 +17,9 @@ function Home(){
             Totam aspernatur veniam quos quaerat atque vero nemo obcaecati quisquam, repellendus illum accusantium laudantium possimus 
             iste quas rerum repellat architecto quo officia. Lorem ipsum dolor sit amet consectetur adipisicing elit. 
             Nemo neque eum distinctio, commodi nam accusamus adipisci inventore earum cum dolorem doloribus doloremque a soluta laudantium, 
-            necessitatibus debitis. Odio, esse dolorem.</p>
+            necessitatibus debitis. Odio, esse dolorem. Lorem ipsum dolor, sit amet consectetur adipisicing elit. Numquam necessitatibus non 
+            magnam, dicta optio ipsam a ex mollitia repudiandae consequatur earum cupiditate, porro illo? Facilis aspernatur reprehenderit 
+            consectetur quam et!</p>
         </>
     )
 }

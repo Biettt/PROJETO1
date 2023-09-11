@@ -1,0 +1,64 @@
+body{
+    font-family: monospace;
+    margin: 0;
+    padding: 0;
+}
+
+.menu{
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+#menu-logo{
+    font-size: 24px;
+    margin: 0;
+}
+
+#menu-nav ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#menu-nav ul li{
+    display: inline;
+    margin-right: 20px;
+}
+
+#tlink{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/*Footer*/
+.footer{
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+/*Home, Prod, Sobre*/
+h1{
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+p{
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+/*Imagens*/
+img{
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}

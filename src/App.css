@@ -37,7 +37,7 @@ body{
 .footer{
     background-color: #333;
     color: white;
-    padding: 20px 0;
+    padding: 10px 0;
     text-align: center;
     position: fixed;
     bottom: 0;
@@ -62,4 +62,34 @@ img{
     max-width: 100%;
     height: auto;
     margin-bottom: 10px;
+}
+
+.prodImg{
+    max-width: 300px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.prodContainer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.prodImgCont{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.prodNameButton{
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    margin-top: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    text-align: center;
 }

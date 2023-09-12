@@ -5,7 +5,7 @@ function Sobre(){
 
     return(
         <>
-        <img src='./assets/' alt='Imagem 1'/>
+        <img src='./assets/logo.png' alt='Logo' className='prodImg'/>
 
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero dicta quam vitae expedita reprehenderit ipsa explicabo nisi, 
             sapiente veniam dolores alias nulla voluptas totam dolore quaerat nam maxime magni suscipit. Lorem, ipsum dolor sit amet 

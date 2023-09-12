@@ -1,5 +1,5 @@
 import {} from 'react'
-import './css/style.css'
+import './App.css'
 import { NavLink } from 'react-router-dom'
 
 function Nav(){
@@ -7,7 +7,7 @@ function Nav(){
     return(
         <>
         <header className='menu'>
-            <h1 id='menu-logo'>Logo X</h1>
+            <h1 id='menu-logo'>Bem Vindo</h1>
             <nav id='menu-nav'>
                 <ul>
                     <NavLink to='Home' id='tlink'>Home</NavLink>

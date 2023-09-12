@@ -1,11 +1,11 @@
 import {} from 'react'
-import './css/style.css'
+import './App.css'
 
 function Home(){
 
     return(
         <>
-        <h1>Título X</h1>
+        <h1>Lorem Vero Dicta</h1>
 
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero dicta quam vitae expedita reprehenderit ipsa explicabo nisi, sapiente 
             veniam dolores alias nulla voluptas totam dolore quaerat nam maxime magni suscipit. Lorem, ipsum dolor sit amet consectetur 

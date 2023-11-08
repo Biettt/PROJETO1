@@ -3,7 +3,7 @@
 Este projeto foi desenvolvido pensando em uma loja online de tênis. Todo o projeto foi desenvolvido em React. Vou explicar as principais partes do código e a ideia geral por trás do projeto.
 
 1. Estrutura do Aplicativo (App.jsx):
-* O componente principal é `App`, que atua como o contêiner principal da aplicação. 
+* O componente principal é o `App`, que atua como o contêiner principal da aplicação. 
 * Utilizei a biblioteca "React Router" para gerenciar as rotas da aplicação, permitindo a navegação entre diferentes páginas. 
 * O layout inclui uma barra de navegação (`<Nav />`), onde os usuários podem selecionar entre "Home", "Produtos" e "Sobre". Cada rota é definida no componente `<Routes>`, que direciona o usuário para a página correspondente.
 
